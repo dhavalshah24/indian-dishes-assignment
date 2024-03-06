@@ -2,8 +2,8 @@
 
 This project consists of two main components:
 
-1. **[indian-dishes](https://github.com/dhavalshah24/indian-dishes-assignment/tree/master/indian-dishes)**: React frontend for managing Indian dishes.
-2. **[indian-dishes-backend](https://github.com/dhavalshah24/indian-dishes-assignment/tree/master/indian-dishes-backend)**: Node.js backend for serving Indian dishes data.
+1. **[indian-dishes]**: React frontend for managing Indian dishes.
+2. **[root-folder]**: Node.js backend for serving Indian dishes data.
 
 ## Installation
 
