@@ -1,0 +1,113 @@
+.sortIcon {
+  font-size: 18px;
+  margin-left: 5px;
+}
+
+.tableRow {
+  cursor: pointer;
+}
+
+.tableRow:hover {
+  background-color: #f5f5f5;
+}
+
+.filterContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.dropdown-filters {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.filter {
+  margin: 0 10px;
+  height: 40px;
+  width: 180px;
+}
+
+.clickable-tablecell {
+  cursor: pointer;
+}
+
+.dish-details {
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin: 10px;
+}
+
+.dish-details h2 {
+  color: #333;
+  font-size: 24px;
+  margin: 10px 0px;
+}
+
+.details p {
+  margin: 8px 0;
+  color: #555;
+}
+
+.details p strong {
+  font-weight: bold;
+  color: #333;
+}
+
+.dish-suggester {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.dish-suggester .MuiAutocomplete-root {
+  margin-bottom: 20px;
+}
+
+.dish-suggester h4 {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.dish-suggester ul {
+  list-style: none;
+  padding: 0;
+}
+
+.dish-suggester ul li {
+  margin-bottom: 8px;
+  font-size: 1rem;
+  color: #555;
+}
+
+.dish-suggester {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.dish-suggester .MuiAutocomplete-root {
+  margin-bottom: 20px;
+}
+
+.dish-suggester h4 {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.dish-suggester ul {
+  list-style: none;
+  padding: 0;
+}
+
+.dish-suggester ul li {
+  margin-bottom: 8px;
+  font-size: 1rem;
+  color: #555;
+}
